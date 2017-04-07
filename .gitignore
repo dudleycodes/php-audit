@@ -1,0 +1,14 @@
+
+### Linux Clutter ###
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+
+### Windows Clutter ###
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
